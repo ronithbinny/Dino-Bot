@@ -1,0 +1,2 @@
+# Dino-Bot
+It is a  simple, fast and basic BOT for playing the Google Chrome's Dinosaur game. For this project I have used Python with PyAutoGUI, Numpy and PIL. With use of PyAutoGUI we made a bot with controls the Keyboard and Mouse, with PIL we made a bounding box and to detect the change in pixels on the screen and with Numpy we calculated the sum of total pixels in the bounding box. When there is a change in pixel value above a certain threshold, the bot would jump over the obstacles.
